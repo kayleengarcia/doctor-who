@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The Dr. Who Website</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="The Doctors Sub Menu" type="boolean" value="false" -->
+<!-- TemplateParam name="The Companions Sub Menu" type="boolean" value="true" -->
+<!-- TemplateParam name="The Villains Sub Menu" type="boolean" value="true" -->
+<!-- TemplateParam name="Show History Sub Menu" type="boolean" value="true" -->
+</head>
+
+<body>
+<table>
+  <tr>
+    <td>[Banner]</td>
+  </tr>
+  <tr>
+    <td><a href="../index.html">Home</a> | <a href="../the-doctors/index.html">The Doctors</a> | <a href="../the-companions/index.html">The Companions</a> | <a href="../the-villains/index.html">The Villains</a> | <a href="../show-history/index.html">Show History</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><!-- TemplateBeginIf cond="_document['The Doctors Sub Menu']" -->
+      <ul>
+        <li><a href="../the-doctors/characters/the-first-doctor.html">The First Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-second-doctor.html">The Second Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-third-doctor.html">The Third Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-fourth-doctor.html">The Fourth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-fifth-doctor.html">The Fifth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-sixth-doctor.html">The Sixth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-seventh-doctor.html">The Seventh Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-eighth-doctor.html">The Eighth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-war-doctor.html">The War Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-ninth-doctor.html">The Ninth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-tenth-doctor.html">The Tenth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-eleventh-doctor.html">The Eleventh Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-twelfth-doctor.html">The Twelfth Doctor </a></li>
+      </ul>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions Sub Menu']" -->
+    <ul>
+      <li><a href="../the-companions/characters/clara-oswald.html">Clara Oswald</a></li>
+      <li><a href="../the-companions/characters/river-song.html">River Song</a></li>
+      <li><a href="../the-companions/characters/rory-williams.html">Rory Williams</a></li>
+      <li><a href="../the-companions/characters/amy-pond.html">Amy Pond</a></li>
+      <li><a href="../the-companions/characters/sarah-jane-smith.html">Sarah Jane Smith</a></li>
+      <li><a href="../the-companions/characters/jack-harkness.html">Jack Harkness</a></li>
+      <li><a href="../the-companions/characters/martha-jones.html">Martha Jones</a></li>
+      <li><a href="../the-companions/characters/donna-noble.html">Donna Noble</a></li>
+      <li><a href="../the-companions/characters/mickey-smith.html">Mickey Smith</a></li>
+      <li><a href="../the-companions/characters/rose-tyler.html">Rose Tyler </a></li>
+    </ul>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Villains Sub Menu']" -->
+    <ul>
+      <li>The Master</li>
+      <li>The Daleks</li>
+      <li>Cybermen</li>
+      <li>The Silence</li>
+      <li>Sontarans</li>
+      <li>The Weeping Angels</li>
+      <li>The Great Intelligence</li>
+      <li>Zygon</li>
+      <li>Slitheen</li>
+      <li>Empress of Racnoss </li>
+    </ul>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Show History Sub Menu']" -->
+    <ul>
+      <li>Origins</li>
+      <li>The Original Series</li>
+      <li>1996 Films</li>
+      <li>2005 Revival</li>
+    </ul>
+    <!-- TemplateEndIf --></td>
+    <td><!-- TemplateBeginEditable name="page content" -->[Page content]<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><p>Brendan Davey</p>
+    <p>Monica DuCong'e</p>
+    <p>Erik Eyler</p>
+    <p>Kayleen Garcia</p>
+    <p>Katie Hyche</p>
+    <p>Ryan Moeller</p></td>
+    <td><p>Christine O'Brien</p>
+    <p>Alex Recinos</p>
+    <p>Julia Schwartz</p>
+    <p>Madeleine Schwartz</p>
+    <p>Ann Marie Skjold</p>
+    <p>Ashly Wilkins</p></td>
+    <td>[reference links]</td>
+  </tr>
+</table>
+</body>
+</html>
