@@ -12,12 +12,13 @@
 <!-- TemplateParam name="The Villains Sub Menu" type="boolean" value="true" -->
 <!-- TemplateParam name="Show History Sub Menu" type="boolean" value="true" -->
 <link href="../styles.css" rel="stylesheet" type="text/css">
+
 </head>
 
 <body>
 <table class="general-width">
   <tr>
-    <td>[Banner]</td>
+    <td><img src="../images/banners/the-doctors.jpg" width="1000" height="200" alt="the doctors website banner"></td>
   </tr>
   <tr>
     <td><a href="../index.html">Home</a> | <a href="../the-doctors/index.html">The Doctors</a> | <a href="../the-companions/index.html">The Companions</a> | <a href="../the-villains/index.html">The Villains</a> | <a href="../show-history/index.html">Show History</a></td>
@@ -32,7 +33,7 @@
         <li><a href="../the-doctors/characters/the-third-doctor.html">The Third Doctor</a></li>
         <li><a href="../the-doctors/characters/the-fourth-doctor.html">The Fourth Doctor</a></li>
         <li><a href="../the-doctors/characters/the-fifth-doctor.html">The Fifth Doctor</a></li>
-        <li><a href="../the-doctors/characters/the-sixth-doctor.html">The Sixth Doctor</a></li>
+        <li class="secondary-nav"><a href="../the-doctors/characters/the-sixth-doctor.html">The Sixth Doctor</a></li>
         <li><a href="../the-doctors/characters/the-seventh-doctor.html">The Seventh Doctor</a></li>
         <li><a href="../the-doctors/characters/the-eighth-doctor.html">The Eighth Doctor</a></li>
         <li><a href="../the-doctors/characters/the-war-doctor.html">The War Doctor</a></li>
