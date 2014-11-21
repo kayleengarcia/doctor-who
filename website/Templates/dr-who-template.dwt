@@ -26,7 +26,15 @@
     <td><!-- TemplateBeginIf cond="homepage" --><img src="../images/banners/the-doctors.jpg" width="1000" height="200" alt="homepage"><!-- TemplateEndIf --> <!-- TemplateBeginIf cond="_document['doctors']" --><img src="../images/banners/doctorsbanner.jpg" width="1000" height="200" alt="doctorsbanner"><!-- TemplateEndIf --> <!-- TemplateBeginIf cond="companions" --><img src="../images/banners/companionsbanner.jpg" width="1000" height="200" alt="companionsbanner"><!-- TemplateEndIf --> <!-- TemplateBeginIf cond="_document['villains']" --><img src="../images/banners/villainsbanner.jpg" width="1000" height="200" alt="villainsbanner"><!-- TemplateEndIf --> <!-- TemplateBeginIf cond="showhistory" --><img src="../images/banners/showhistorybanner.jpg" width="1000" height="200" alt="showhistorybanner"><!-- TemplateEndIf --></td>
   </tr>
   <tr>
-    <td><a href="../index.html">Home</a> | <a href="../the-doctors/index.html">The Doctors</a> | <a href="../the-companions/index.html">The Companions</a> | <a href="../the-villains/index.html">The Villains</a> | <a href="../show-history/index.html">Show History</a></td>
+    <td class="primarynav"><a href="../index.html">Home</a>
+    
+    <a href="../the-doctors/index.html">The Doctors</a>
+    
+    <a href="../the-companions/index.html">The Companions</a>
+    
+    <a href="../the-villains/index.html">The Villains</a>
+    
+    <a href="../show-history/index.html">Show History</a></td>
   </tr>
 </table>
 <table class="general-width">
@@ -48,7 +56,10 @@
         <li><a href="../the-doctors/characters/the-twelfth-doctor.html">The Twelfth Doctor</a></li>
       </ul>
       <p></p>
-    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['homepage series 8 doctor']" --><img src="../images/doctor-images/series8.jpg" width="300" height="425" alt="series8"><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions Sub Menu']" -->
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['homepage series 8 doctor']" -->
+    <img src="../images/me/kayleen.jpg" alt="kayleen" width="300" height="300" class="imagerap">
+    <img src="../images/doctor-images/series8.jpg" alt="series8" width="300" height="425" class="imagerap">
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions Sub Menu']" -->
     <ul>
       <li><a href="../the-companions/characters/clara-oswald.html">Clara Oswald</a></li>
       <li><a href="../the-companions/characters/river-song.html">River Song</a></li>
@@ -82,24 +93,24 @@
       <li><a href="../show-history/2005-revival.html">2005 Revival</a></li>
     </ul>
     <!-- TemplateEndIf --></td>
-    <td><!-- TemplateBeginEditable name="page content" -->[Page content]<!-- TemplateEndEditable --></td>
+    <td class="contentstuff"><!-- TemplateBeginEditable name="page content" -->[Page content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
 <table class="general-width">
   <tr>
-    <td class="class-links"><p>Brendan Davey</p>
-    <p>Monica DuCong'e</p>
-    <p>Erik Eyler</p>
-    <p>Kayleen Garcia</p>
-    <p>Katie Hyche</p>
-    <p>Ryan Moeller</p></td>
-    <td class="class-links"><p>Christine O'Brien</p>
-    <p>Alex Recinos</p>
-    <p>Julia Schwartz</p>
-    <p>Madeleine Schwartz</p>
+    <td class="class-links"><p><a href="http://149.61.52.23">Brendan Davey</a></p>
+    <p><a href="http://149.61.52.11">Monica DuCong'e</a></p>
+    <p><a href="http://149.61.52.21">Erik Eyler</a></p>
+    <p><strong>Kayleen Garcia</strong></p>
+    <p><a href="http://149.61.52.19">Katie Hyche</a></p>
+    <p><a href="http://149.61.52.15">Ryan Moeller</a></p></td>
+    <td class="class-links"><p><a href="http://149.61.52.16">Christine O'Brien</a></p>
+    <p><a href="http://149.61.52.17">Alex Recinos</a></p>
+    <p><a href="http://149.61.52.22">Julia Schwartz</a></p>
+    <p><a href="http://149.61.43.161">Madeleine Schwartz</a></p>
     <p>Ann Marie Skjold</p>
-    <p>Ashly Wilkins</p></td>
-    <td class="reference-links">[reference links]</td>
+    <p><a href="http://149.61.52.13">Ashly Wilkins</a></p></td>
+    <td class="reference-links">Content derived from the <a href="http://en.wikipedia.org/wiki/Doctor_Who">Doctor Who Wikipedia</a>.</td>
   </tr>
 </table>
 </body>
