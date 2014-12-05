@@ -57,8 +57,8 @@
       </ul>
       <p></p>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['homepage series 8 doctor']" -->
-    <img src="../images/me/kayleen.jpg" alt="kayleen" width="300" height="300" class="imagerap">
-    <img src="../images/doctor-images/series8.jpg" alt="series8" width="300" height="425" class="imagerap">
+    <img src="../images/me/kayleen.jpg" alt="kayleen" width="300" height="300">
+    <img src="../images/doctor-images/series8.jpg" alt="series8" width="300" height="425">
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions Sub Menu']" -->
     <ul>
       <li><a href="../the-companions/characters/clara-oswald.html">Clara Oswald</a></li>
